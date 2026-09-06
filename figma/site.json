@@ -1,0 +1,10 @@
+{
+  "description": "Streamline command execution for developers by providing a user-friendly interface to run scripts and commands efficiently, enhancing productivity.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
